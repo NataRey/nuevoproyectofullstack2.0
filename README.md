@@ -1,5 +1,5 @@
 # PROYECTO -FullStack front y back 
- ### cree un APIS de productos "bolsos" y una de usuarios para la creacion de la parte front y el back.
+ ### cree un API de productos "bolsos" y una de usuarios para la creacion de la parte front y el back.
  El usuario podrá ingresar(si esta en la base de datos) o registrase desde un formulario y quedar almacenado en la base de datos para poder visualizar la tienda en la página shop.
 ## Pasos de elaboración:
 ## BACKEND
@@ -79,4 +79,4 @@ _ https://www.mongodb.com/atlas
 _ https://www.npmjs.com/
 _  https://ngx-toastr.vercel.app
 
-# AUTORA: @Deisy Esquivia Perez 
+# AUTORA: @Nataly Reyes Rojas
